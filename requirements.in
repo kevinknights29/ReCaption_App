@@ -1,3 +1,7 @@
 # dev
 pre-commit
 bandit
+
+# app
+streamlit
+facebook_business
