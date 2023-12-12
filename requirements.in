@@ -5,3 +5,4 @@ bandit
 # app
 streamlit
 facebook_business
+python-dotenv
