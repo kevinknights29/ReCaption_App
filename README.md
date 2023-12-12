@@ -1,2 +1,3 @@
 # ReCaption_App
-A simple way to update the caption of your instagram posts
+
+A simple way to update the caption of your Instagram posts
